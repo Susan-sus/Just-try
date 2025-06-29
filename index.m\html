@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>我的简单网站</title>
+</head>
+<body>
+  <h1>欢迎访问我的网站！</h1>
+  <p>这是一个用 GitHub Pages 构建的简单页面。</p>
+</body>
+</html>
